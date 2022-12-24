@@ -1,0 +1,112 @@
+#all{
+    margin: 10px;
+    background: black;
+}
+#left{
+    display: inline-block;
+    background: black;
+    margin-right: 10px;
+    width: 300px;
+    height: 880px;    
+}
+#left1{
+    border-radius: 5%;
+    background: rgb(82, 79, 112);    
+    width: 300px;
+    height: 210px;
+}
+#left2{
+    border-radius: 5%;
+    margin-top: 10px;
+    background: rgb(82, 79, 112);    
+    width: 300px;
+    height: 210px;
+}
+#left3{
+    border-radius: 5%;
+    margin-top: 10px;
+    background: rgb(82, 79, 112);    
+    width: 300px;
+    height: 210px;
+}
+#left4{
+    border-radius: 5%;
+    margin-top: 10px;
+    background: rgb(82, 79, 112);    
+    width: 300px;
+    height: 215px;
+}
+
+/*****************************************/
+
+#content{   
+    display: inline-block;
+    margin-right: 10px;
+    width: 1000px;
+    height: 870px;    
+}
+#main{
+    border-radius: 2%;
+    background: rgb(82, 79, 112);
+    width: 1000px;
+    height: 650px;
+}
+#main1{
+    border-radius: 5%;
+    display: inline-block;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    background: rgb(82, 79, 112);    
+    width: 323px;
+    height: 215px;
+}
+#main2{
+    border-radius: 5%;
+    display: inline-block;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    background: rgb(82, 79, 112);       
+    width: 323px;
+    height: 215px;
+}
+#main3{
+    border-radius: 5%;
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    background: rgb(82, 79, 112);    
+    width: 323px;
+    height: 215px;
+}
+
+
+/*******************************************/
+
+#right{
+    display: inline-block;
+    background: black;    
+    width: 300px;
+    height: 880px;    
+}
+#right1{
+    border-radius: 5%;
+    background: rgb(82, 79, 112);    
+    width: 320px;
+    height: 420px;
+}
+#right2{
+    border-radius: 5%;
+    margin-top: 10px;
+    background: rgb(82, 79, 112);    
+    width: 320px;
+    height: 220px;
+}
+#right3{
+    border-radius: 5%;
+    margin-top: 10px;
+    background: rgb(82, 79, 112);    
+    width: 320px;
+    height: 215px;
+}
